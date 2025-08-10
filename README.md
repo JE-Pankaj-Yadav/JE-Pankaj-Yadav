@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Pankaj Yadav  
 
-🎓 **3rd-year B.Tech in Computer Science Engineering**<br>
+🎓 **B.Tech in Computer Science Engineering**<br>
 📚 **Bhagwant University, Ajmer (2024 – Present)**<br>
 
 🎓 **Diploma in Computer Science Engineering**<br>
